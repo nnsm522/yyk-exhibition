@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.dc4c79bf.chunk.css",
-    "main.js": "./static/js/main.3f2e770b.chunk.js",
-    "main.js.map": "./static/js/main.3f2e770b.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.7dab5fb8.js",
-    "runtime-main.js.map": "./static/js/runtime-main.7dab5fb8.js.map",
-    "static/css/2.150d169a.chunk.css": "./static/css/2.150d169a.chunk.css",
-    "static/js/2.7780b9a6.chunk.js": "./static/js/2.7780b9a6.chunk.js",
-    "static/js/2.7780b9a6.chunk.js.map": "./static/js/2.7780b9a6.chunk.js.map",
-    "static/js/3.3b7d30a1.chunk.js": "./static/js/3.3b7d30a1.chunk.js",
-    "static/js/3.3b7d30a1.chunk.js.map": "./static/js/3.3b7d30a1.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/2.150d169a.chunk.css.map": "./static/css/2.150d169a.chunk.css.map",
-    "static/css/main.dc4c79bf.chunk.css.map": "./static/css/main.dc4c79bf.chunk.css.map",
-    "static/js/2.7780b9a6.chunk.js.LICENSE.txt": "./static/js/2.7780b9a6.chunk.js.LICENSE.txt"
+    "main.css": "/yyk-exhibition/static/css/main.dc4c79bf.chunk.css",
+    "main.js": "/yyk-exhibition/static/js/main.5ee8a7b9.chunk.js",
+    "main.js.map": "/yyk-exhibition/static/js/main.5ee8a7b9.chunk.js.map",
+    "runtime-main.js": "/yyk-exhibition/static/js/runtime-main.f9356a78.js",
+    "runtime-main.js.map": "/yyk-exhibition/static/js/runtime-main.f9356a78.js.map",
+    "static/css/2.150d169a.chunk.css": "/yyk-exhibition/static/css/2.150d169a.chunk.css",
+    "static/js/2.7780b9a6.chunk.js": "/yyk-exhibition/static/js/2.7780b9a6.chunk.js",
+    "static/js/2.7780b9a6.chunk.js.map": "/yyk-exhibition/static/js/2.7780b9a6.chunk.js.map",
+    "static/js/3.3b7d30a1.chunk.js": "/yyk-exhibition/static/js/3.3b7d30a1.chunk.js",
+    "static/js/3.3b7d30a1.chunk.js.map": "/yyk-exhibition/static/js/3.3b7d30a1.chunk.js.map",
+    "index.html": "/yyk-exhibition/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/yyk-exhibition/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.dc4c79bf.chunk.css.map": "/yyk-exhibition/static/css/main.dc4c79bf.chunk.css.map",
+    "static/js/2.7780b9a6.chunk.js.LICENSE.txt": "/yyk-exhibition/static/js/2.7780b9a6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7dab5fb8.js",
+    "static/js/runtime-main.f9356a78.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.7780b9a6.chunk.js",
     "static/css/main.dc4c79bf.chunk.css",
-    "static/js/main.3f2e770b.chunk.js"
+    "static/js/main.5ee8a7b9.chunk.js"
   ]
 }
